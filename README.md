@@ -78,12 +78,41 @@ This project does not have testing in this moment.
 
 ## Structure of Project
 
+```
+└── 📁s1a2-introducci-n-a-react-native-Jherrera11
+    └── .github
+    └── 📁AwesomeProject
+        └── 📁ios
+        └── 📁__tests__
+        └── 📁.bundle
+        └── 📁Android
+        └── 📁ios
+        └── 📁node_modules       
+        └── app.json
+        └── App.tsx
+        └── babel.config.js
+        └── Gemfile
+        └── index.js
+        └── jest.config.js
+        └── metro.config.js
+        └── package-lock.json
+        └── package.json
+        └── react-native.config.js
+        └── README.md
+        └── tsconfig.json
+    └── 📁img
+        └── logo.png
+    └──   .gitignore
+    └── instructions.md
+    └── README.md
+```
+
 ## Contributors
 
-This project was developed by [
+This project was developed by 
 * Co-authored-by: Jherrera11 <jherrera11@ucol.mx>
-].
+
 
 ## Badges
-![ReactNative]https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-![AndroidStudio]https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
